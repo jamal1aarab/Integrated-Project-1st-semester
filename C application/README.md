@@ -6,13 +6,13 @@ To access the application as an administrator, you will need a matricule and a p
 
 Here is the login information for the different roles:
 
-### Balance manager:
+##### Balance manager:
 
 Matricule: 1
 
 Password: solde123
 
-### Ticket manager:
+##### Ticket manager:
 
 Matricule: 2
 

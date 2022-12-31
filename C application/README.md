@@ -5,11 +5,13 @@ Here is the login information for the different roles:
 Balance manager :
 
 -Matricule: 1
+
 -Password: solde123
 
 Ticket manager
 
 -Matricule: 2
+
 -Password: resto123
 
 It is important not to change an administrator's matricule.

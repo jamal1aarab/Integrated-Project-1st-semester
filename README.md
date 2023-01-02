@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them. For example:
+You need to install :
 
 - [Java SE Development Kit 17.0.5](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 - [Oracle Database 21c Express Edition](https://www.oracle.com/database/technologies/xe-downloads.html)
@@ -20,6 +20,8 @@ What things you need to install the software and how to install them. For exampl
 3. Run the project.
 > the `main.exe` file for the C application 
 > the `main.jar` file for the JAVA application 
+
+Keep the files in their original location !
 
            
 ## Authors

@@ -26,7 +26,7 @@ What things you need to install the software and how to install them. For exampl
 
 - **AARAB Jamal** - *Team member* - [jamal1aarab](https://github.com/jamal1aarab)
 - **SOUL Redouane** - *Team member* - [SOULREDOUANE](https://github.com/SOULREDOUANE)
-- **BOUAYAD Haitham** - *Team member* [purizon](https://github.com/purizon)
+- **BOUAYAD Haitham** - *Team member* - [purizon](https://github.com/purizon)
 - **LEGHRISSI Ayoub** - *Team member* - [ayoubLeghrissi](https://github.com/ayoubLeghrissi)
 
 All Rights Reserved.

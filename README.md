@@ -21,7 +21,7 @@ You need to install :
 > the `main.exe` file for the C application 
 > the `main.jar` file for the JAVA application 
 
-Keep the files in their original location !
+NB : Keep the files in their original location !
 
            
 ## Authors
@@ -30,5 +30,3 @@ Keep the files in their original location !
 - **SOUL Redouane** - *Team member* - [SOULREDOUANE](https://github.com/SOULREDOUANE)
 - **BOUAYAD Haitham** - *Team member* - [purizon](https://github.com/purizon)
 - **LEGHRISSI Ayoub** - *Team member* - [ayoubLeghrissi](https://github.com/ayoubLeghrissi)
-
-All Rights Reserved.

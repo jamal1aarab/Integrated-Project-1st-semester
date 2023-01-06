@@ -284,7 +284,7 @@ public class Acc {
 		ImageIcon icon1=new ImageIcon(this.getClass().getResource("/dishD (1).jpg"));
 		gauche.setLayout(null);
 		
-		JLabel title = new JLabel("Ce que vous déservez...");
+		JLabel title = new JLabel("Ce que vous méritez...");
 		title.setForeground(Color.WHITE);
 		title.setFont(new Font("Times New Roman", Font.BOLD | Font.ITALIC, 40));
 		title.setBounds(32, 318, 492, 49);
